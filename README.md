@@ -33,4 +33,4 @@ El código está organizado siguiendo principios de Clean Code:
 4.  Ejecuta la app en un emulador o dispositivo físico.
 
 ---
-**Desarrollado por:** [Tu Nombre]
+**Desarrollado por:** Micahel jordan telleria Guadalajara

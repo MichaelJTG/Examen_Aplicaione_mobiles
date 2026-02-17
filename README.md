@@ -3,7 +3,9 @@
 Una aplicación Android moderna y elegante para visualizar una colección exclusiva de productos, desarrollada con **Jetpack Compose** y **Clean Architecture**.
 
 ## 📱 Capturas de Pantalla
-![App Screenshot](https://via.placeholder.com/300x600?text=Captura+de+la+App)
+<img width="474" height="953" alt="image" src="https://github.com/user-attachments/assets/b29ece11-fdac-479a-8b4f-1483578b9979" />
+
+
 
 ## 🚀 Características
 * **Diseño Deluxe:** Interfaz de usuario "Premium" con paleta de colores Verde Bosque y Dorado.
